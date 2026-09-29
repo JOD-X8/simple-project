@@ -1,0 +1,18 @@
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Java
+backend/target/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
